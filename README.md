@@ -22,3 +22,8 @@ Programming is my hobby :3
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/>
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
 </div>
+
+Some things dont have icons :c
+
+I code in assembly too c:
+
