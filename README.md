@@ -5,6 +5,12 @@ Programming is my hobby :3
 My public gpg key is available at keys.openpgp.org, with email p1k0chu.vim@gmail.com  
 Its fingerprint is: `A62B 9583 84A5 1453 E157  ED98 1BFF 01B6 0597 DDC5`
 
+## Links :3
+
+[codeberg](https://codeberg.org/p1k0chu),
+[github](https://github.com/p1k0chu),
+[bluesky](https://bsky.app/profile/p1kachu.bsky.social)
+
 ### Stack
 
 <div>
